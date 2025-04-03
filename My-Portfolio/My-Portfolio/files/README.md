@@ -1,8 +1,7 @@
 <img  alt="portfolio" width="100%" src="https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif">
 <h1 align="center">Hi 👋, Mohamed Nizar K.S</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="    https://www.linkedin.com/in/mohamed-nizar-8164952b1
-">
+<img align="right" alt="Coding" width="400" src="#" >
 
 - 🔭 I’m currently pursuing **M.COM**
 
@@ -16,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/midhun-v-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="midhun-v-s" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/midhun-v-s" target="blank"><img align="center" src="    https://www.linkedin.com/in/mohamed-nizar-8164952b1
+" alt="midhun-v-s" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
