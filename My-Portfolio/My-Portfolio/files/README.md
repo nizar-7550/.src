@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/midhun-v-s" target="blank"><img align="center" src="    https://www.linkedin.com/in/mohamed-nizar-8164952b1
-" alt="midhun-v-s" height="30" width="40" /></a>
+" alt="Nizar-k.s" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
