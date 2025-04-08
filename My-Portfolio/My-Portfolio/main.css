@@ -1039,7 +1039,7 @@ body {
     padding: 10px;
     margin-left: 0px;
   }
-  .bar .info .addhtml::before {
+  /* .bar .info .addhtml::before {
     content: "90%";
   }
   .bar .info .addcss::before {
@@ -1054,7 +1054,7 @@ body {
   .bar .info .addc::before {
     content: "50%";
   }
-
+ */
   /*project*/
   .main-text {
     padding-top: 20px;
