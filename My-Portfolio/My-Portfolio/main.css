@@ -352,14 +352,14 @@ body {
 }
 
 .progress-line.html span {
-  width: 90%;
+  width: 50%;
 }
 
 .progress-line.css span {
-  width: 80%;
+  width: 50%;
 }
 .progress-line.javascript span {
-  width: 60%;
+  width: 50%;
 }
 .progress-line.react span {
   width: 50%;
@@ -371,7 +371,7 @@ body {
   width: 50%;
 }
 .progress-line.sql span {
-  width: 80%;
+  width: 50%;
 }
 .progress-line span::after {
   position: absolute;
@@ -386,7 +386,7 @@ body {
   opacity: 0;
 }
 
-.progress-line.html span::after {
+/* .progress-line.html span::after {
   content: "90%";
 }
 
@@ -408,7 +408,7 @@ body {
 }
 .progress-line.sql span::after {
   content: "75%";
-}
+} */
 
 .progress-line span::before {
   content: "";
