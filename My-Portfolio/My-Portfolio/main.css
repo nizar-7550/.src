@@ -1051,7 +1051,7 @@ body {
   .bar .info .addjava::before {
     content: "50%";
   }
-  .bar .info .addc::before {
+  .bar .info .addreact::before {
     content: "50%";
   }
 
@@ -1209,22 +1209,6 @@ body {
   .radial-bar .text {
     left: 25%;
   }
-/*   .bar .info .addhtml::before {
-    content: "90%";
-  }
-  .bar .info .addcss::before {
-    content: "80%";
-  }
-  .bar .info .addpy::before {
-    content: "75%";
-  }
-  .bar .info .addjava::before {
-    content: "50%";
-  }
-  .bar .info .addc::before {
-    content: "50%";
-  }
- */
   /*project*/
   .main-text {
     padding-top: 20px;
